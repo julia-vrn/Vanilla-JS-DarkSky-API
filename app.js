@@ -1,3 +1,6 @@
+//https://darksky.net/dev/register
+//https://github.com/darkskyapp/skycons
+
 window.addEventListener('load', () => {
     let long;
     let lat;
